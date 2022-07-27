@@ -1,0 +1,5 @@
+channel_id: #USE O COMANDO !set_channel OU !setChannel PARA ALTERAR
+summoner_name: '' #NOME DO INVOCADOR
+api_key: '' #CHAVE DA API DA RIOT
+region: '' #REGIÃO DO INVOCADOR (EX: BR1)
+discord_key: '' #CHAVE DO BOT DO DISCORD
